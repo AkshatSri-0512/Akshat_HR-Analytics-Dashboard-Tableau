@@ -1,0 +1,12 @@
+vertical container > hortizontal >text > next to text title blank 
+> vertical below > add filters to this 
+> adjust container whole 
+> add show hide button 
+> edit button 
+> fix width of button 25 
+> remove blank next to title 
+> adjust hori container 
+> fix height of whole container 42 
+> divider top bottom 10 left right 6 dark grey width 1 opacity 60
+
+NEXT 
